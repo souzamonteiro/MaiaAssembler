@@ -1,2 +1,2 @@
 # MaiaAssembler
-MaiaScript assembler for the WebAssembly language
+MaiaScript assembler for the WebAssembly language.
