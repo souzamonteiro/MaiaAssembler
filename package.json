@@ -2,34 +2,10 @@
   "name": "maiaassembler",
   "version": "1.0.0",
   "description": "MaiaScript assembler for the WebAssembly language.",
-  "author": "The MaiaScript Team (https://www.maiascript.com)",
-  "license": "Apache-2.0",
-  "keywords": [
-    "maia",
-    "maiascript",
-    "programming language",
-    "webassembly",
-    "assembler"
-  ],
-  "main": "bin/maiaassembler.js",
-  "directories": {
-    "doc": "docs",
-    "example": "examples",
-    "test": "test"
-  },
+  "main": "index.js",
   "scripts": {
-    "test": "./test.sh"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/souzamonteiro/maiaassembler.git"
-  },
-  "bugs": {
-    "url": "https://github.com/souzamonteiro/maiaassembler/issues"
-  },
-  "homepage": "https://github.com/souzamonteiro/maiaassembler#readme",
-  "dependencies": {
-    "concat-stream": "^2.0.0",
-    "minimist": "^1.2.7"
-  }
+  "author": "",
+  "license": "Apache-2.0"
 }
